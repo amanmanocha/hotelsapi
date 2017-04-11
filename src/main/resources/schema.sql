@@ -1,0 +1,6 @@
+CREATE TABLE hotels 
+( 
+hotelid VARCHAR(255) PRIMARY KEY, 
+city VARCHAR(255), 
+room VARCHAR(255), 
+price NUMBER);
