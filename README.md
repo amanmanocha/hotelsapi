@@ -37,14 +37,14 @@ I have used spring-data-rest to get to the API ready with minimum code required.
       
           /hotels/search/findByCity{?city}
       
-     e.g. - /hotels/search/findByCity?city=Bangkok
+          e.g. - /hotels/search/findByCity?city=Bangkok
   3. Provide optional sorting of the result by Price (both ASC and DESC order).
       
           /hotels/search/findByCity{?city,sort}
   
-    e.g. - /hotels/search/findByCity?city=Bangkok&sort=price
+          e.g. - /hotels/search/findByCity?city=Bangkok&sort=price
             
-           /hotels/search/findByCity?city=Bangkok&sort=price,desc
+          /hotels/search/findByCity?city=Bangkok&sort=price,desc
      
 
 All end-points require x-api-key to be presenent as header. 
