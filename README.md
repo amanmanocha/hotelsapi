@@ -31,15 +31,16 @@ I have used spring-data-rest to get to the API ready with minimum code required.
 
   1. All hotels
       
-      /hotels
+          /hotels
+  
   2. Search hotels by CityId
       
-      /hotels/search/findByCity{?city}
+          /hotels/search/findByCity{?city}
       
      e.g. - /hotels/search/findByCity?city=Bangkok
-  2. Provide optional sorting of the result by Price (both ASC and DESC order).
-  
-      /hotels/search/findByCity{?city,sort}
+  3. Provide optional sorting of the result by Price (both ASC and DESC order).
+      
+          /hotels/search/findByCity{?city,sort}
   
     e.g. - /hotels/search/findByCity?city=Bangkok&sort=price
             
@@ -55,7 +56,7 @@ API key can have different rate limits set, in this case from a configuration fi
 The per second rate limit can be configured by setting 'rate.limit' in appliction.properties file, which should be present in the classpath.
 Per second rate limit a for specific keys can be configured by setting 'rate.limit.{key}' in same application.properties file.
 
-Improvements
+Pending improvements
 
 1. Frequency of rate limit should be made configurable.
 2. Swagger for describing end points.
