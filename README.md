@@ -37,3 +37,10 @@ I have used spring-data-rest to get to the API ready with minimum code required.
       /hotels/search/findByCity{?city,sort}
 
 All end-points require x-api-key to be presenent as header. 
+
+
+The API should be rate limited (x requests per 10 seconds) based on API key provided in each call.
+API key can have different rate limits set, in this case from a configuration file, and if not present use a global default.
+
+The per second rate limit can be configured by setting 'rate.limit' in appliction.properties file, which should be present in the classpath.
+Per second rate limit a for specific keys can be configured by setting 'rate.limit.{key}' in same application.properties file.
