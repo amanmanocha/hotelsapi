@@ -44,3 +44,5 @@ API key can have different rate limits set, in this case from a configuration fi
 
 The per second rate limit can be configured by setting 'rate.limit' in appliction.properties file, which should be present in the classpath.
 Per second rate limit a for specific keys can be configured by setting 'rate.limit.{key}' in same application.properties file.
+
+I realize frequency of rate limit should have been made configurable.
