@@ -1,4 +1,4 @@
-CREATE TABLE hotels 
+CREATE TABLE IF NOT EXISTS hotels 
 ( 
 hotelid VARCHAR(255) PRIMARY KEY, 
 city VARCHAR(255), 

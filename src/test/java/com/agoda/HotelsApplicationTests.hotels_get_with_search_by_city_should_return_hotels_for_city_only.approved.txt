@@ -1,0 +1,94 @@
+{
+  "_embedded" : {
+    "hotels" : [ {
+      "city" : "Bangkok",
+      "room" : "Deluxe",
+      "price" : 1000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/1"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/1"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Superior",
+      "price" : 2000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/6"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/6"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Superior",
+      "price" : 2400,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/8"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/8"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Deluxe",
+      "price" : 60,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/11"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/11"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Sweet Suite",
+      "price" : 25000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/14"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/14"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Deluxe",
+      "price" : 900,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/15"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/15"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Sweet Suite",
+      "price" : 5300,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/18"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/18"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://localhost/hotels/search/findByCity?city=Bangkok"
+    }
+  }
+}

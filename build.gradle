@@ -30,5 +30,7 @@ dependencies {
 	compile('com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.5.3')
 	
 	runtime('com.h2database:h2')
+	
+	testCompile files('libs/ApprovalTests.jar')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }

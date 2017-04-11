@@ -1,0 +1,328 @@
+{
+  "_embedded" : {
+    "hotels" : [ {
+      "city" : "Bangkok",
+      "room" : "Deluxe",
+      "price" : 60,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/11"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/11"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Superior",
+      "price" : 800,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/16"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/16"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Deluxe",
+      "price" : 900,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/15"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/15"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Deluxe",
+      "price" : 1000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/1"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/1"
+        }
+      }
+    }, {
+      "city" : "Amsterdam",
+      "room" : "Superior",
+      "price" : 1000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/13"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/13"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Superior",
+      "price" : 1000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/19"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/19"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Superior",
+      "price" : 1100,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/10"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/10"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Sweet Suite",
+      "price" : 1200,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/5"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/5"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Sweet Suite",
+      "price" : 1300,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/3"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/3"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Superior",
+      "price" : 1400,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/24"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/24"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Deluxe",
+      "price" : 1600,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/7"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/7"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Deluxe",
+      "price" : 1800,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/12"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/12"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Deluxe",
+      "price" : 1900,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/25"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/25"
+        }
+      }
+    }, {
+      "city" : "Amsterdam",
+      "room" : "Superior",
+      "price" : 2000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/2"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/2"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Superior",
+      "price" : 2000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/6"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/6"
+        }
+      }
+    }, {
+      "city" : "Amsterdam",
+      "room" : "Deluxe",
+      "price" : 2200,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/4"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/4"
+        }
+      }
+    }, {
+      "city" : "Amsterdam",
+      "room" : "Deluxe",
+      "price" : 2300,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/26"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/26"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Superior",
+      "price" : 2400,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/8"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/8"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Deluxe",
+      "price" : 2800,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/17"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/17"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Superior",
+      "price" : 4444,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/20"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/20"
+        }
+      }
+    }, {
+      "city" : "Amsterdam",
+      "room" : "Deluxe",
+      "price" : 5000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/23"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/23"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Sweet Suite",
+      "price" : 5300,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/18"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/18"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Deluxe",
+      "price" : 7000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/21"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/21"
+        }
+      }
+    }, {
+      "city" : "Ashburn",
+      "room" : "Sweet Suite",
+      "price" : 14000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/22"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/22"
+        }
+      }
+    }, {
+      "city" : "Bangkok",
+      "room" : "Sweet Suite",
+      "price" : 25000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/14"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/14"
+        }
+      }
+    }, {
+      "city" : "Amsterdam",
+      "room" : "Sweet Suite",
+      "price" : 30000,
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost/hotels/9"
+        },
+        "hotel" : {
+          "href" : "http://localhost/hotels/9"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://localhost/hotels?sort=price"
+    },
+    "profile" : {
+      "href" : "http://localhost/profile/hotels"
+    },
+    "search" : {
+      "href" : "http://localhost/hotels/search"
+    }
+  }
+}
