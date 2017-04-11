@@ -22,3 +22,18 @@ API
 All material herein © 2005 – 2014 Agoda Company Pte. Ltd., All Rights Reserved.<br />
 AGODA ® is a registered trademark of AGIP LLC, used under license by Agoda Company Pte. Ltd.<br />
 Agoda is part ofPriceline (NASDAQ:PCLN)<br />
+
+
+Solution notes
+==============
+
+I have used spring-data-rest to get to the API ready with minimum code required. It gives hateos for free. Following are the end-points
+
+  1. All hotels
+      /hotels
+  2. Search hotels by CityId
+      /hotels/search/findByCity{?city}
+  2. Provide optional sorting of the result by Price (both ASC and DESC order).
+      /hotels/search/findByCity{?city,sort}
+
+All end-points require x-api-key to be presenent as header. 
