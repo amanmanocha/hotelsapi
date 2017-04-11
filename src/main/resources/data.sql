@@ -1,1 +1,1 @@
-INSERT INTO hotels  SELECT * FROM CSVREAD('classpath:hoteldb.csv');
+INSERT INTO hotels (hotelid, city, room, price)  SELECT HOTELID,CITY,ROOM,PRICE FROM CSVREAD('classpath:hoteldb.csv');

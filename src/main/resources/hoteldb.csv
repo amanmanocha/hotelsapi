@@ -1,27 +1,27 @@
-hotelid,city,room,price
-1,Bangkok,Deluxe,1000
-2,Amsterdam,Superior,2000
-3,Ashburn,Sweet Suite,1300
-4,Amsterdam,Deluxe,2200
-5,Ashburn,Sweet Suite,1200
-6,Bangkok,Superior,2000
-7,Ashburn,Deluxe,1600
-8,Bangkok,Superior,2400
-9,Amsterdam,Sweet Suite,30000
-10,Ashburn,Superior,1100
-11,Bangkok,Deluxe,60
-12,Ashburn,Deluxe,1800
-13,Amsterdam,Superior,1000
-14,Bangkok,Sweet Suite,25000
-15,Bangkok,Deluxe,900
-16,Ashburn,Superior,800
-17,Ashburn,Deluxe,2800
-18,Bangkok,Sweet Suite,5300
-19,Ashburn,Superior,1000
-20,Ashburn,Superior,4444
-21,Ashburn,Deluxe,7000
-22,Ashburn,Sweet Suite,14000
-23,Amsterdam,Deluxe,5000
-24,Ashburn,Superior,1400
-25,Ashburn,Deluxe,1900
-26,Amsterdam,Deluxe,2300
+CITY,HOTELID,ROOM,PRICE
+Bangkok,1,Deluxe,1000
+Amsterdam,2,Superior,2000
+Ashburn,3,Sweet Suite,1300
+Amsterdam,4,Deluxe,2200
+Ashburn,5,Sweet Suite,1200
+Bangkok,6,Superior,2000
+Ashburn,7,Deluxe,1600
+Bangkok,8,Superior,2400
+Amsterdam,9,Sweet Suite,30000
+Ashburn,10,Superior,1100
+Bangkok,11,Deluxe,60
+Ashburn,12,Deluxe,1800
+Amsterdam,13,Superior,1000
+Bangkok,14,Sweet Suite,25000
+Bangkok,15,Deluxe,900
+Ashburn,16,Superior,800
+Ashburn,17,Deluxe,2800
+Bangkok,18,Sweet Suite,5300
+Ashburn,19,Superior,1000
+Ashburn,20,Superior,4444
+Ashburn,21,Deluxe,7000
+Ashburn,22,Sweet Suite,14000
+Amsterdam,23,Deluxe,5000
+Ashburn,24,Superior,1400
+Ashburn,25,Deluxe,1900
+Amsterdam,26,Deluxe,2300
